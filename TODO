@@ -1,0 +1,21 @@
+1.create model
+- product
+    - title
+    - price
+    - size - s, m , l, xl
+    - brend
+    - quantity
+    - description
+    - specification
+    - avaible color
+    - image
+    - author
+    - views
+
+- productimage
+- product detail
+- cart
+- favourite
+- buy
+- comment
+
